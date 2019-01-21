@@ -32,3 +32,4 @@ Añadir reacciones
 > Desarrollado por Paul#1789
 > Este bot no es open-source en estos momentos
 
+![alt text](https://github.com/Witless/ReportesNetBot/blob/master/Ejemplo%20(2).PNG)
