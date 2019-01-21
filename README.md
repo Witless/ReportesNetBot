@@ -30,8 +30,8 @@ Añadir reacciones
 (Es sugerible que la instalación se acompañe de un BotAdmin)
 ### Funcionamiento 
 
-![Ej1](https://github.com/Witless/ReportesNetBot/blob/master/Ejemplo%20(1).PNG)
-![Ej2](https://github.com/Witless/ReportesNetBot/blob/master/Ejemplo%20(2).PNG)
+![Ej1](https://i.imgur.com/zEitXmv.png)
+![Ej2](https://i.imgur.com/KANh87W.png)
 
 
 > Desarrollado por Paul#1789
