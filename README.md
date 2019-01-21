@@ -28,8 +28,12 @@ Añadir reacciones
 - Tras este paso tu servidor ya estará preparado para usar el bot de reportes
 
 (Es sugerible que la instalación se acompañe de un BotAdmin)
+### Funcionamiento 
+
+![alt text](https://github.com/Witless/ReportesNetBot/blob/master/Ejemplo%20(1).PNG)
+![alt text](https://github.com/Witless/ReportesNetBot/blob/master/Ejemplo%20(2).PNG)
+
 
 > Desarrollado por Paul#1789
 > Este bot no es open-source en estos momentos
 
-![alt text](https://github.com/Witless/ReportesNetBot/blob/master/Ejemplo%20(2).PNG)
