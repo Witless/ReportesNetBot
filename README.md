@@ -10,7 +10,7 @@ https://discord.gg/yBFKvQZ
 # Características
 
   - Envío de mensajes a diferentes servidores a través de un canal
-  - Claves de envío para cada servidor que dispone el bot
+  - Claves de envío para cada servidor que dispone del bot
   - No necesita permisos especiales de administración
   - Confirmación del envío de un reporte
 
