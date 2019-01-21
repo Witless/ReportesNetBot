@@ -1,6 +1,6 @@
 # Bot de Reportes
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Witless/ReportesNetBot)
-[![Dependency Status](https://david-dm.org/akveo/ngx-admin/status.svg)](https://david-dm.org/akveo/ng2-admin)
+[![Dependency Status](https://david-dm.org/akveo/ngx-admin/status.svg)](https://github.com/Witless/ReportesNetBot)
 
 Reportes es un bot de Discord que conecta a diferentes servidores con el objetivo de mantener una comunidad sana y una cooperación conjunta entre moderadores.
 ###### Para poder añadir el bot a tu servidor deberás pedirlo aquí
