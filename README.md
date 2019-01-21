@@ -30,5 +30,5 @@ Añadir reacciones
 (Es sugerible que la instalación se acompañe de un BotAdmin)
 
 > Desarrollado por Paul#1789
->Este bot no es open-source en estos momentos
+> Este bot no es open-source en estos momentos
 
