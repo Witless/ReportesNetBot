@@ -37,3 +37,4 @@ Añadir reacciones
 > Desarrollado por Paul#1789
 > Este bot no es open-source en estos momentos
 
+<iframe src="https://va.logs.heroku.com/stream/89217ad9-a1ea-4d28-b00a-d1e9605fb192.3mNm11.J1I81VWpeEfY-gSKd7WBcbmSEj-DLDTmSzN13yX8glE" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
