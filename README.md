@@ -13,6 +13,7 @@ https://discord.gg/yBFKvQZ
   - Claves de envío para cada servidor que dispone del bot
   - No necesita permisos especiales de administración
   - Confirmación del envío de un reporte
+  - No hace uso de bases de datos
 
 
 ### Instalación
